@@ -26,3 +26,4 @@ Utiliser Authorization: Bearer <token> pour les endpoints protégés.
 Importez http://localhost:8080/v3/api-docs dans Postman pour générer une collection.
 ## Exécution
 Assurez-vous que MySQL est en cours d'exécution.
+![image](https://github.com/user-attachments/assets/0251bd87-0ccb-4b71-a4b7-5b3673a5258c)
